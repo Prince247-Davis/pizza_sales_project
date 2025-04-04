@@ -1,0 +1,1 @@
+Pizza Sales Project is a very interesting project that gave me the space to apply everything I've learned on excel for the past weeks. I was able to apply Excel functions such as Pivot tables and Slicers, created a dashboard and visualize using charts to give meaningful insight
